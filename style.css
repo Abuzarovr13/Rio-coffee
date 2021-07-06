@@ -1,0 +1,49 @@
+html{
+    border: 10px solid burlywood;
+    font-family: sans-serif;
+}
+body{
+    background-color: #f0e8d1;
+    text-align: left;
+    width: 1440px;
+    margin-left: 250px;
+    
+}
+.nav{
+    margin-top: 56px;
+    margin-left: 12%;
+}
+.nav a{
+    color: cadetblue;
+}
+h1 {
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
+.img{
+    float: left;
+    width: 230px;
+    margin: 7px 25px 7px 0px;
+}
+ul{
+    text-align: left;
+}
+.col{
+    white-space: nowrap;
+    border: 5px solid burlywood;
+    padding: 10px;
+}
+.colum{
+    white-space: normal;	
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+}
+.col .colum:first-child{
+    margin-right: 4%;
+}
+.h3col{
+    text-align: center;
+}
